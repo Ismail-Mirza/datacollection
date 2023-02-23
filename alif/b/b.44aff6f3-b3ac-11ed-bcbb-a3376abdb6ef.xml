@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b</folder>
+	<filename>b.44aff6f3-b3ac-11ed-bcbb-a3376abdb6ef.jpg</filename>
+	<path>D:\Work\datacollection\alif\b\b.44aff6f3-b3ac-11ed-bcbb-a3376abdb6ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>217</ymin>
+			<xmax>574</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

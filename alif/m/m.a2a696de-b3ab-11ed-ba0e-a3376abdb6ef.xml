@@ -1,0 +1,26 @@
+<annotation>
+	<folder>m</folder>
+	<filename>m.a2a696de-b3ab-11ed-ba0e-a3376abdb6ef.jpg</filename>
+	<path>D:\Work\datacollection\alif\m\m.a2a696de-b3ab-11ed-ba0e-a3376abdb6ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>233</ymin>
+			<xmax>534</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

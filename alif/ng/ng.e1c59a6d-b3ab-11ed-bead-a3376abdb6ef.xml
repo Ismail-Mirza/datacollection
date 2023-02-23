@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ng</folder>
+	<filename>ng.e1c59a6d-b3ab-11ed-bead-a3376abdb6ef.jpg</filename>
+	<path>D:\Work\datacollection\alif\ng\ng.e1c59a6d-b3ab-11ed-bead-a3376abdb6ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>151</ymin>
+			<xmax>459</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

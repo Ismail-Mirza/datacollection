@@ -1,0 +1,26 @@
+<annotation>
+	<folder>r</folder>
+	<filename>r.a54cdc94-b3aa-11ed-ae92-a3376abdb6ef.jpg</filename>
+	<path>D:\Work\datacollection\alif\r\r.a54cdc94-b3aa-11ed-ae92-a3376abdb6ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>288</ymin>
+			<xmax>534</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

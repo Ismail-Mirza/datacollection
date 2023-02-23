@@ -16,14 +16,20 @@ import uuid
 # In[2]:
 
 
-IMAGES_PATH = "Tensorflow/workspace/images/collectedimages"
+IMAGES_PATH = "alif"
 
 
 # In[3]:
+"""
+    TODO:
+        o 
 
 
-labels = ["o","r"]
-number_imgs=15
+"""
+
+
+labels = ["b"]
+number_imgs=20
 
 
 # In[4]:
@@ -32,11 +38,11 @@ number_imgs=15
 # address = "http://192.168.0.101:8080/video"
 # cap.open(address)
 for label in labels:
-    os.mkdir("collectedimages/"+label)
+    os.mkdir(f"{IMAGES_PATH}/"+label)
     
     cap = cv2.VideoCapture(0)
     print("Collecting Images for {}".format(label))
-    time.sleep(10)
+    time.sleep(5)
     for imgnum in range(number_imgs):
         
         ret,frame = cap.read()
